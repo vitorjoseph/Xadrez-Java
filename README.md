@@ -1,18 +1,14 @@
-## Getting Started
+##Curso: Programação Orientada a Objetos com Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+http://educandoweb.com.br
 
-## Folder Structure
+#Prof. Dr. Nelio Alves
 
-The workspace contains two folders by default, where:
+Capítulo: Projeto Sistema de Jogo de Xadrez
+** Objetivo geral:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+ Aplicar os conhecimentos aprendidos até o momento no curso para a construção de um projeto
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+System design
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+https://github.com/acenelio/chess-system-design
